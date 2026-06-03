@@ -1,0 +1,5 @@
+torch
+torchvision
+kornia
+timm
+open_clip_torch
