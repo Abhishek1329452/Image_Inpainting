@@ -136,10 +136,10 @@ Training and evaluation are currently ongoing on the FFHQ dataset. Preliminary e
 
 ## Author
 
-**Rishik T**
+**Abhishek kumar Singh**
 
 B.Tech, Electrical and Electronics Engineering  
-National Institute of Technology Andhra Pradesh
+National Institute of Technology Raipur
 
 Research Intern, IIT Bhilai
 
