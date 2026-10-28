@@ -167,8 +167,8 @@ Datasets are not included in this repository because of their size.
 
 ## Author
 
-**Rishik Thammisetty**
-B.Tech, Electrical and Electronics Engineering (Minor in AI & Robotics), National Institute of Technology Andhra Pradesh
+**Abhishek kumar singh**
+B.Tech, Electrical and Electronics Engineering (Minor in AI & Robotics), National Institute of Technology Raipur
 Research Intern, IIT Bhilai
 
 Supervisor: **Dr. Hathiram Nenavath**, Department of Electronics and Communication Engineering, IIT Bhilai
